@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Longanime - Longapps::Games</title>
+    <link rel="stylesheet" href="assets/css/page.css" type="text/css" />
+    <link rel="stylesheet" href="assets/css/play.css" type="text/css" />
+</head>
+<body>
+Michael Lins
+<canvas id="game" width="600;" height="300"></canvas>
+
+<div style="text-align: left;">
+<strong>Falta:</strong>
+<ol>
+  <li>Limitar as bordas</li>
+  <li>Ao chegar ao fim da tela, volta na linha de baixo, mudando direção do carro</li>
+  <li>Desenhar obstáculos (3)</li>
+  <li>Implementar pulo do objeto</li>
+  <li>Desenhar pista e entificar direção pista: sobe, desce, esquerda, direita</li>
+  <li>Algorítimo de desenho dos quatro ângulos: sobe, desce, esquerda, direita</li>
+  <li>Explosão ao pular errado</li>
+  <li>BigSmile quando chegar ao fim!</li>
+  <li>Colocar Rebeca para jogar (sem explicar)</li>
+</ol>
+time = time * 0.9 + last_frame * 0.1
+</div>
+
+<script type="text/javascript" src="assets/js/event-handler.js"></script>
+<script type="text/javascript" src="assets/js/render.js"></script>
+<script type="text/javascript" src="assets/js/update-data.js"></script>
+<script type="text/javascript" src="assets/js/game-loop.js"></script>
+<script type="text/javascript">
+    window.requestAnimationFrame( gaming );
+</script>
+</body>
+</html>
