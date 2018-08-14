@@ -1,18 +1,12 @@
+![imgur](https://i.imgur.com/OzvPeCT.png)
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# Welcome to Cargame!
 
+Hi there!
 
-Hi there! Welcome to Cloud9 IDE!
+I'm just playing with old javascript stuff for a game of my own. No big deal here. Feel confortable to play along, lol.
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+Created using c9.io IDE (just awesome)
 
-Happy coding!
-The Cloud9 IDE team
+Cheers,
+happy coding!
